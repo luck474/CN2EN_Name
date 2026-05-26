@@ -79,10 +79,10 @@ For comparison requests:
 - Group names into 2 or 3 clusters, such as safer, more literary, and more distinctive.
 
 For final selection:
-- Recommend one primary name and show how it looks in use, such as `Rowan Xia`.
+- Recommend one primary name and show how it looks in use, such as `Rowan Lin`.
 
 ## Example Requests
 
-- "Use $english-name-studio to suggest a literary, neutral English name for 夏一凡."
+- "Use $english-name-studio to suggest a literary, neutral English name for a Chinese name."
 - "Use $english-name-studio to make the options more modern and less delicate."
 - "Use $english-name-studio to give me 5 English names that fit a designer-writer vibe."
