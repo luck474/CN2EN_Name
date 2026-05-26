@@ -1,0 +1,7 @@
+interface:
+  display_name: "English Name Studio"
+  short_description: "Craft distinctive English names"
+  default_prompt: "Use $english-name-studio to suggest a distinctive English name based on my Chinese name and desired vibe."
+
+policy:
+  allow_implicit_invocation: true
